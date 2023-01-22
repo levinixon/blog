@@ -15,7 +15,6 @@ function header() {
         </Link>
         </div>
         <div className='flex space-x-2 text-l'>
-            <p>Interested in my portfolio? Click this juicy looking cake!</p>
         <Link
           href="https://www.levi-nixon.com"
           className="text-xl hover:underline">
