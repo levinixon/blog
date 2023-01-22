@@ -10,6 +10,7 @@ type Props = {
     params: {
         slug: string;
     };
+    revalidate: 10,
   };
   
   async function Post({params: {slug} }: Props) {
